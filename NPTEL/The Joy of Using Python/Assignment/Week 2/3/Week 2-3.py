@@ -1,4 +1,4 @@
-# Your last recorded submission was :
+# Your last recorded submission was :(Working)
 a,b = [int(x) for x in input().split()]
 if (a>b):
     print(b)
