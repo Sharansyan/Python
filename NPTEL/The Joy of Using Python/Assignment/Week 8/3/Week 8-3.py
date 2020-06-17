@@ -1,4 +1,4 @@
-# Your last recorded submission was :
+# Your last recorded submission was :(Working)
 vowels = 'aeiou'
 s=input();
 i=0;
