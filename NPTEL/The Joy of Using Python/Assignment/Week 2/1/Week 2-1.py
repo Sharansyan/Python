@@ -1,4 +1,4 @@
-# Your last recorded submission was :
+# Your last recorded submission was :(Working)
 a=input()
 x=int(a)
 print(x)
