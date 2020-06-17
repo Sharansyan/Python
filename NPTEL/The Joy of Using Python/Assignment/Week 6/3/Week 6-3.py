@@ -1,4 +1,4 @@
-# Your last recorded submission was :
+# Your last recorded submission was :(Working)
 A=int(input())
 printDict={x:x*x for x in range(1,A+1)}
 print(printDict,end="")
