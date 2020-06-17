@@ -1,4 +1,4 @@
-# Your last recorded submission was :
+# Your last recorded submission was :(Working)
 email = input()
 
 index1 = email.index('@')
